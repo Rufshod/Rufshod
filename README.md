@@ -5,7 +5,7 @@ I am committed to learning in order to make a meaningful difference for people, 
 
 With AI and ML I hope be able to tackle complex problems and create innovative solutions. As a student, I am always seeking to expand my knowledge and skills.
 
-:man_technologist: I’m currently working on: Linear Regression using Sci-kit Learn.<br>:mechanical_arm: I’m currently learning:             Machine Learning<br>💬 Ask me about:                           Cooking, Fermentation or AI.
+:man_technologist: I’m currently working on: Recommender with KNN and Disease prediction<br>:mechanical_arm: I’m currently learning:             Machine Learning<br>💬 Ask me about:                           Cooking, Fermentation or AI.
 
 
 ## 🌐 Socials:
