@@ -5,7 +5,7 @@ I am committed to learning in order to make a meaningful difference for people, 
 
 With AI and ML I hope be able to tackle complex problems and create innovative solutions. As a student, I am always seeking to expand my knowledge and skills.
 
-:man_technologist: I’m currently working on: Anomaly Detection <br>:mechanical_arm: I’m currently learning:             Machine Learning<br>💬 Ask me about:                           Cooking, Fermentation or AI.
+:man_technologist: I’m currently working on: Deep Learning Course <br>:mechanical_arm: I’m currently learning:             Convolutional Neural Networks<br>💬 Ask me about:                           Cooking or Fermentation.
 
 
 ## 🌐 Socials:
