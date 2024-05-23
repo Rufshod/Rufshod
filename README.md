@@ -1,6 +1,6 @@
 # Hello, I am Alexander. 
   
-A Machine Learning and Artificial Intelligence student.  
+A Machine Learning and Artificial Intelligence Engineer.  
 I am committed to learning in order to make a meaningful difference for people, whether it's improving inefficient traditional methods or freeing up more time for companies and individuals.  
 
 With AI and ML I hope be able to tackle complex problems and create innovative solutions. As a student, I am always seeking to expand my knowledge and skills.
