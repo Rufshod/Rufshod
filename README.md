@@ -5,7 +5,7 @@ I am committed to learning in order to make a meaningful difference for people, 
 
 With AI and ML I hope be able to tackle complex problems and create innovative solutions. As a student, I am always seeking to expand my knowledge and skills.
 
-:man_technologist: I’m currently working at Quokka AB <br>:mechanical_arm: Current Hobby Project:             Coding and designing a website <br>💬 Other Interests:                           Cooking or Fermentation.
+:man_technologist: I’m currently working at Quokka AB <br>:mechanical_arm: Current Hobby Project:             Coding and designing a website <br>💬 Other Interests:                           Cooking and Fermentation.
 
 
 ## 🌐 Socials:
