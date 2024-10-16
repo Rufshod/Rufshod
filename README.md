@@ -3,7 +3,7 @@
 A Machine Learning and Artificial Intelligence Engineer.  
 I am committed to learning in order to make a meaningful difference for people, whether it's improving inefficient traditional methods or freeing up more time for companies and individuals.  
 
-With AI and ML I hope be able to tackle complex problems and create innovative solutions. As a student, I am always seeking to expand my knowledge and skills.
+With AI and ML I hope be able to tackle complex problems and create innovative solutions.
 
 :man_technologist: I’m currently working at Quokka AB <br>:mechanical_arm: Current Hobby Project:             Coding and designing a website <br>💬 Other Interests:                           Cooking and Fermentation.
 
